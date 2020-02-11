@@ -1,0 +1,37 @@
+{
+  "name": "react-node-mongo-api",
+  "version": "1.0.0",
+  "description": "app whit react mongo db nodejs electron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexiseloza/App-React-Node-Electron.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "electron",
+    "mongo",
+    "db",
+    "mongo",
+    "react",
+    "alexisloza"
+  ],
+  "author": "Alexis Loza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexiseloza/App-React-Node-Electron/issues"
+  },
+  "homepage": "https://github.com/Alexiseloza/App-React-Node-Electron#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

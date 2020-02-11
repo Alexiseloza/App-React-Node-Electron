@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Proyecto con Electron JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexiseloza/App-React-Node-Electron.git"
+  },
+  "author": "Alexis Loza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexiseloza/App-React-Node-Electron/issues"
+  },
+  "homepage": "https://github.com/Alexiseloza/App-React-Node-Electron#readme",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
