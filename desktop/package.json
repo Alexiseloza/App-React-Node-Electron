@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Alexiseloza/App-React-Node-Electron#readme",
   "devDependencies": {
-    "electron": "^7.1.1"
+    "electron": "^15.5.5"
   }
 }
